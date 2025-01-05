@@ -1,0 +1,22 @@
+Project 2: String Comparison and Conversion Operations
+Project Overview
+This project will assess participants' knowledge of string comparison and conversion methods in Java. The participant will implement string comparison and conversion operations using built-in Java methods.
+
+Assessment Tasks
+Declare String Variables:
+
+1. Declare two string variables that will be used for comparison and conversion operations.
+Perform String Comparison Operations:
+
+2. Use string comparison methods: equals(), equalsIgnoreCase(), compareTo().
+Example:
+Check if two strings are equal, considering case sensitivity and ignoring case sensitivity.
+Compare two strings lexicographically using compareTo().
+Perform String Conversion Operations:
+
+3. Apply conversion methods: valueOf(), trim(), split(), toCharArray().
+Example:
+Convert other data types to strings using valueOf().
+Trim leading and trailing spaces from a string using trim().
+Split a string into an array of substrings using split().
+Convert a string into an array of characters using toCharArray().
